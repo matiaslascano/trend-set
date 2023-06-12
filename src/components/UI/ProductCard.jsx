@@ -1,4 +1,5 @@
 import React from "react";
+
 import { motion } from "framer-motion";
 import "../../styles/product-card.css";
 import { Col } from "reactstrap";
