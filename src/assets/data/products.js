@@ -42,7 +42,7 @@ const products = [
     reviews: [
       {
         rating: 4.7,
-        text: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        text: "Excelente producto.",
       },
     ],
     avgRating: 4.5,

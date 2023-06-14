@@ -1,0 +1,11 @@
+.common__section {
+  background: var(--primary-color);
+  padding: 100px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.common__section h1 {
+  color: #fff;
+  font-weight: 600;
+}
